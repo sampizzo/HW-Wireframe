@@ -23,8 +23,8 @@ nav {
 }
 
 section {
-    width: 495px;
     float: left;
+    width: 495px;
     padding: 40px 10px 10px 10px;
     margin: 0 20px 20px 0;
 }
@@ -52,6 +52,9 @@ p {
 
 aside {
     float: left;
+    width: 405px;
+    height: 258px;
+    padding: 40px 10px 10px 10px;
 }
 
 footer {
