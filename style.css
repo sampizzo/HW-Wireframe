@@ -4,10 +4,27 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 header, nav, section, aside, footer {
     background: #ebebeb;
+}
+
+header {
+    margin-top: 10px;
+    padding: 40px;
+}
+
+nav {
+    margin: 10px 0 20px 0;
+    padding: 40px;
+}
+
+section {
+    width: 495px;
+    float: left;
 }
 
 article {
@@ -20,6 +37,6 @@ h1, p {
     background: #ebebeb;
 }
 
-section {
-    width: 495px;
+aside {
+    float: left;
 }
