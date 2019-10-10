@@ -25,6 +25,7 @@ nav {
 section {
     width: 495px;
     float: left;
+    overflow: auto;
 }
 
 article {
@@ -39,4 +40,8 @@ h1, p {
 
 aside {
     float: left;
+}
+
+footer {
+    clear: both;
 }
